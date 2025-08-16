@@ -1,11 +1,15 @@
 google-cloud-aiplatform
-sentence-transformers===2.2.2
+sentence-transformers
 langchain
 flask
 pypdf
 python-dotenv
 pinecone[grpc]
 langchain-pinecone
+pinecone-client
+protoc-gen-openapiv2
 langchain-community
 langchain-experimental
+langchain-google-vertexai
+
 -e .    
